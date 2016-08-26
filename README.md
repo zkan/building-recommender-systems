@@ -7,3 +7,7 @@ Credit: https://www.codementor.io/python/tutorial/build-data-products-django-mac
 * Item-Based Collaborative Filtering
 * Content-Based Engine
 * Matrix Factorization
+
+## Public Datasets
+
+https://gist.github.com/entaroadun/1653794
